@@ -1,0 +1,13 @@
+[project]
+name = "contractkill-backend"
+version = "0.1.0"
+description = "ContractKill FastAPI backend"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["app/tests"]
+
+[tool.ruff]
+line-length = 100
