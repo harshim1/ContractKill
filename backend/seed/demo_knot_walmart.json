@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "merchant_id": 45,
+      "merchant_name": "Walmart",
+      "vendor": "Walmart Business",
+      "amount": 75.0,
+      "currency": "USD",
+      "date": "2024-02-05T08:00:00",
+      "sku": "WMT-CLEANING",
+      "description": "Cleaning supplies"
+    },
+    {
+      "merchant_id": 45,
+      "merchant_name": "Walmart",
+      "vendor": "Walmart Business",
+      "amount": 45.0,
+      "currency": "USD",
+      "date": "2024-02-12T08:00:00",
+      "sku": "WMT-SNACKS",
+      "description": "Team snacks"
+    }
+  ]
+}

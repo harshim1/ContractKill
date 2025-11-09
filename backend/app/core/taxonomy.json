@@ -1,0 +1,15 @@
+{
+  "Zoom": "Video Conferencing",
+  "Google Meet": "Video Conferencing",
+  "Webex": "Video Conferencing",
+  "Slack": "Collaboration",
+  "Teams": "Collaboration",
+  "Monday": "Project Management",
+  "Asana": "Project Management",
+  "Datadog": "Observability",
+  "Adobe": "Creative",
+  "Grammarly": "Productivity",
+  "Salesforce": "CRM",
+  "Notion": "Knowledge Base",
+  "Github": "Dev Tools"
+}

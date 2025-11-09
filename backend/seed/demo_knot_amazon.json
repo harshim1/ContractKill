@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "merchant_id": 44,
+      "merchant_name": "Amazon",
+      "vendor": "Amazon Web Services",
+      "amount": 120.5,
+      "currency": "USD",
+      "date": "2024-04-01T12:00:00",
+      "sku": "AWS-EC2-SMALL",
+      "description": "EC2 instance"
+    },
+    {
+      "merchant_id": 44,
+      "merchant_name": "Amazon",
+      "vendor": "Amazon Prime",
+      "amount": 19.99,
+      "currency": "USD",
+      "date": "2024-04-15T12:00:00",
+      "sku": "AMZ-PRIME",
+      "description": "Prime membership"
+    },
+    {
+      "merchant_id": 44,
+      "merchant_name": "Amazon",
+      "vendor": "Amazon Marketplace",
+      "amount": 58.4,
+      "currency": "USD",
+      "date": "2024-04-20T12:00:00",
+      "sku": "AMZ-BUS-TOOLS",
+      "description": "Office supplies"
+    }
+  ]
+}

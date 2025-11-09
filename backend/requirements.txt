@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+SQLAlchemy
+python-dotenv
+scikit-learn
+pandas
+numpy
+python-multipart
+joblib

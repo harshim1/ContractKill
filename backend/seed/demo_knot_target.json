@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "merchant_id": 12,
+      "merchant_name": "Target",
+      "vendor": "Target Retail",
+      "amount": 240.0,
+      "currency": "USD",
+      "date": "2024-03-10T10:30:00",
+      "sku": "TRGT-OFFICE-CHAIR",
+      "description": "Office chair"
+    },
+    {
+      "merchant_id": 12,
+      "merchant_name": "Target",
+      "vendor": "Target Retail",
+      "amount": 18.0,
+      "currency": "USD",
+      "date": "2024-03-18T09:30:00",
+      "sku": "TRGT-STAPLES",
+      "description": "Staples"
+    }
+  ]
+}
